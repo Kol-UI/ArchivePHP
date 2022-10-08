@@ -1,0 +1,7 @@
+Index.php ==> creation de compte
+Login.php ==> se connecter
+
+Pour avoir un URL raccouris:
+==> Dashboard.php
+(Raccourcis.php pour le script en question)
+L'URL est alors stockée dans Stockage-url.txt
